@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sneha060504/leetCode/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sneha060504/leetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sneha060504/leetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sneha060504/leetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
