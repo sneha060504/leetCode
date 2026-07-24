@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sneha060504/leetCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/sneha060504/leetCode/tree/master/0061-rotate-list) |
 ## Simulation
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sneha060504/leetCode/tree/master/0085-maximal-rectangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/sneha060504/leetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
