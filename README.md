@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/sneha060504/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sneha060504/leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sneha060504/leetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sneha060504/leetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sneha060504/leetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sneha060504/leetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sneha060504/leetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sneha060504/leetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sneha060504/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sneha060504/leetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sneha060504/leetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sneha060504/leetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +106,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/sneha060504/leetCode/tree/master/0061-rotate-list) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sneha060504/leetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/sneha060504/leetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
