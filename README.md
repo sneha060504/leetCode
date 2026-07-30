@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sneha060504/leetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/sneha060504/leetCode/tree/master/0226-invert-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sneha060504/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sneha060504/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/sneha060504/leetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -143,6 +144,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sneha060504/leetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/sneha060504/leetCode/tree/master/0226-invert-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sneha060504/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sneha060504/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/sneha060504/leetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sneha060504/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
