@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sneha060504/leetCode/tree/master/0226-invert-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sneha060504/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sneha060504/leetCode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sneha060504/leetCode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sneha060504/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/sneha060504/leetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sneha060504/leetCode/tree/master/0226-invert-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sneha060504/leetCode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sneha060504/leetCode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sneha060504/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/sneha060504/leetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sneha060504/leetCode/tree/master/0226-invert-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sneha060504/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sneha060504/leetCode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sneha060504/leetCode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sneha060504/leetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/sneha060504/leetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha060504/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sneha060504/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sneha060504/leetCode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/sneha060504/leetCode/tree/master/0938-range-sum-of-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
