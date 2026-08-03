@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sneha060504/leetCode/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sneha060504/leetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0523-continuous-subarray-sum](https://github.com/sneha060504/leetCode/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sneha060504/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/sneha060504/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sneha060504/leetCode/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/sneha060504/leetCode/tree/master/0523-continuous-subarray-sum) |
 | [0682-baseball-game](https://github.com/sneha060504/leetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sneha060504/leetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sneha060504/leetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sneha060504/leetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sneha060504/leetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/sneha060504/leetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/sneha060504/leetCode/tree/master/0523-continuous-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,4 +207,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sneha060504/leetCode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/sneha060504/leetCode/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/sneha060504/leetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
