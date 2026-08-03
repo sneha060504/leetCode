@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sneha060504/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sneha060504/leetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha060504/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0303-range-sum-query-immutable](https://github.com/sneha060504/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/sneha060504/leetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sneha060504/leetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/sneha060504/leetCode/tree/master/0682-baseball-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sneha060504/leetCode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/sneha060504/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/sneha060504/leetCode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sneha060504/leetCode/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sneha060504/leetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
